@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { SET_LOADING } from "../../../store/constants/constants";
 import { updateMark } from "../../../store/action/teacher";
 import CRUDLayout from "../../Form/CRUDLayout/CRUDLayout";

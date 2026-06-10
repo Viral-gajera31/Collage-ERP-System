@@ -1,4 +1,4 @@
-import { Backdrop, Button, Typography } from "@material-ui/core";
+import { Backdrop, Button } from "@material-ui/core";
 import { useSelector, useDispatch } from "react-redux";
 import {
   CLEAR_ADMIN,
